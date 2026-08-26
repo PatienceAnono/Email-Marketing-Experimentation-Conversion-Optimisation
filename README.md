@@ -9,7 +9,6 @@
 ![Status](https://img.shields.io/badge/Status-Complete-2EC4B6?style=flat)
 ![Verdict](https://img.shields.io/badge/Verdict-Roll%20Out%20Variant%20B-success?style=flat)
 
-**Consulting-grade A/B test evaluation for an e-commerce email marketing campaign.**  
 *Full funnel analysis · Statistical hypothesis testing · Customer segmentation · Revenue impact quantification*
 
 [View Notebook](#) · [Case Study PDF](#) · [PA Data Analytics](https://padataanalytics.com)
